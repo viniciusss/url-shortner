@@ -1,0 +1,3 @@
+[submodule "vendors/absolute-framework"]
+	path = vendors/absolute-framework
+	url = git@github.com:viniciusss/absolute-framework.git
